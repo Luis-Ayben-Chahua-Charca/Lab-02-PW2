@@ -84,7 +84,7 @@ El codigo del ejercicio es: ejercicio5.html
 
 - Pruebe este código de arrayGenerator() en la página https://jslint.com/
 <div>
-con respecto al codigo original, se uso "n" para asignar un leght al array y se cambio el bucle for "for" por el metodo a.forEach(); para llenar los datos.
+con respecto al codigo original, se uso "n" para asignar un leght al array y se cambio el bucle for "for" por el metodo a.forEach(); para llenar los datos.<br>
 <td><img src="JSlint.JPG"></td>
 </div>
 - Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
