@@ -64,8 +64,13 @@
 - Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
 
 - Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
+El codigo del ejercicio es: ejercicio5.html
+<td><img src="ejercicio5a.PNG" alt=" " style="width:100%; height:auto"/></td>
+<td><img src="ejercicio5b.PNG" alt=" " style="width:100%; height:auto"/></td>
 
 - Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
+chambi orosco luis fernando JS Variables enlace - https://flipgrid.com/a9ddad0c
+
 
 ##  2 SOLUCION DEL CUESTIONARIO 
 - Pruebe este código de arrayGenerator() en la página https://jslint.com/
