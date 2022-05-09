@@ -47,28 +47,6 @@
 <span>(formato estudiante)</span>
 </div>
 
-## SOLUCION y RESULTADOS
-## 1 SOLUCION DE EJERCICIOS /PROBLEMAS 
-- Ejercicio 01: Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp  y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
-
- El codigo del ejercicio es: ejercicio1.html
- <td><img src="ejercicio1.PNG" alt=" " style="width:100%; height:auto"/></td>
-
-- Ejercicio 02: Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
-
-- Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
-
-  El codigo del ejercicio es: ejercicio3.html
-  <td><img src="ejercicio3.PNG" alt=" " style="width:100%; height:auto"/></td>
-
-- Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
-
-- Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
-
-El codigo del ejercicio es: ejercicio5.html
-<td><img src="ejercicio5a.PNG" alt=" " style="width:100%; height:auto"/></td>
-<td><img src="ejercicio5b.PNG" alt=" " style="width:100%; height:auto"/></td>
-
 
 ## EJERCICIOS PROPUESTOS
 - Ejercicio 01: Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp  y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
