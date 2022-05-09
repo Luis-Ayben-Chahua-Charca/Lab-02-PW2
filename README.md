@@ -69,7 +69,7 @@ El codigo del ejercicio es: ejercicio5.html
 <td><img src="ejercicio5b.PNG" alt=" " style="width:100%; height:auto"/></td>
 
 - Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
-  Chambi Orosco Luis Fernando JS Variables enlace - https://flipgrid.com/a9ddad0c
+  <p>Chambi Orosco Luis Fernando JS Variables enlace - https://flipgrid.com/a9ddad0c</p>
 
 
 ##  2 SOLUCION DEL CUESTIONARIO 
