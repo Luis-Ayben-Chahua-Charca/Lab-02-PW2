@@ -57,7 +57,7 @@ El codigo del ejercicio es: ejercicio1.html
 - Ejercicio 02: Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
 <div>
 se ejecuta en ejercicio2.html y trabaja con ejercicio2.js
-<img src="Ejecucion2.jpg">
+<td><img src="Ejecucion2.jpg"></td>
 </div>
 - Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
 
@@ -67,7 +67,7 @@ El codigo del ejercicio es: ejercicio3.html
 - Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
 <div>
 se ejecuta en ejercicio4.html y trabaja con ejercicio4.js
-<img src="Ejecucion4.JPG">
+<td><img src="Ejecucion4.JPG"></td>
 </div>
 - Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
 
@@ -86,7 +86,7 @@ El codigo del ejercicio es: ejercicio5.html
 <div>
 con respecto al codigo original, se uso "n" para asignar un leght al array
 y se cambio el bucle for "for" por el metodo a.forEach(); para llenar los datos.
-<img src="JSlint.JPG">
+<td><img src="JSlint.JPG"></td>
 </div>
 - Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
 
